@@ -1,0 +1,4 @@
+# you would have this run the scripts you want. putting an interactive shell
+# instead here for a placeholder.
+
+/bin/bash --login
