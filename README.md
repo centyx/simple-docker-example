@@ -10,7 +10,7 @@ This container
 - Runs the /usr/local/bin/runcmd script and exits
 
 Note on scripts/ folder. The scripts here are intentionally blank. Someone would
-populate them as needed and runcmd one to tie them together.
+populate them as needed and edit runcmd to tie them together.
 
 ## Building the container image
 
